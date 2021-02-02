@@ -48,6 +48,8 @@ marked in the explanations below.
   "ws-server": {
     "port": 8080,
     "host": "127.0.0.1",
+    "username": "admin",
+    "password": "p4ssw0rd",
     "autoIncrementPort": "false",
     "servePlugin": "true",
     "servePluginWithoutLogin": "yes",
